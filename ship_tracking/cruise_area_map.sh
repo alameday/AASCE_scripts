@@ -5,6 +5,8 @@
 
 #This should be called automatically from plot_ship_location.py 
 
+#Please contact rmartinshort@gmail.com for the datasets
+
 
 if [ $# -eq 5 ]; then
 	echo "Correct number of arguments given"

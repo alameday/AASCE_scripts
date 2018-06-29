@@ -1,0 +1,56 @@
+OBS#,Name,Lon,Lat,Depth,Type,Notes,check_bathy
+3.0,LT03,-154.025,57.827,-158.0," TRM OBSs with APG, pop-up",LT sites are large trawl shields- site moved out into Shelikov strait,0
+5.0,LT05,-155.34691,56.82336,-229.0, TRM OBS with APGs No pop-up ,trawl OBS,0
+7.0,LT07,-156.12,56.671519999999994,-290.0, TRM OBS with APGs No pop-up float,trawl OBS,0
+6.0,LT06,-155.99761,56.216409999999996,-227.0, TRM OBSs with APGs No pop-up ,,0
+11.0,LT11,-157.33579,56.1205,-160.0," TRM OBSs with APG, pop-up",,0
+14.0,LT14,-158.03,55.7,-156.0," TRM OBSs with APG, pop-up",,0
+16.0,LT16,-158.60107,55.49195,-170.0," TRM OBSs with APG, pop-up",,0
+15.0,LT15,-158.36,55.2,-178.0, TRM OBSs with APGs marginal for pop-up,,0
+12.0,LT12,-157.77802,55.20681999999999,-93.0," TRM OBSs with APG, pop-up",,0
+10.0,LT10,-157.32407,55.625,-108.0," TRM OBSs with APG, pop-up",,0
+8.0,LT08,-156.59771999999998,55.58841999999999,-241.0, TRM OBS with APGs No pop-up float,,0
+93.1,GPSA3-east,-156.70856666666666,55.03378333333333,-1205.0,,"Three benchmarks will be deployed (as small moorings) in a small triangle, We will do a CTD cast to near the seafloor within the triangle",0
+93.2,GPSA3-South,-156.70856666666666,55.01761666666667,-1280.0,,,0
+93.3,GPSA3-west,-156.73296666666667,55.0257,-1190.0,,,0
+36.0,LD36,-155.75,55.250930000000004,-5146.0, deep LDEO OBSs without APGs,"deep water OBS sites, free drop, LD and LA  sites. ",1
+25.0,LA25,-155.917,54.883,-2496.0, deep LDEO OBSs with APGs,yellow/red just means we need to be careful to check bathymetry before deploying. ,1
+28.0,LA28,-156.6,54.9,-1815.0, deep LDEO OBSs with APGs,"deep water OBS sites, free drop, at all LD and LA  sites. ",1
+9.0,LT09,-157.13891,55.126419999999996,-137.0," TRM OBSs with APG, pop-up",,0
+30.0,LA30,-157.41562,54.67106,-1565.0, deep LDEO OBSs with APGs,,0
+32.0,LA32,-157.85,54.500130000000006,-1610.0, deep LDEO OBSs with APGs,,0
+13.0,LT13,-158.34601669999998,54.843833,-205.0, TRM OBSs with APGs No pop-up,Moved westward 20nm  to fill an apparent hole in coverage.,0
+92.1,GPSA2-east,-158.4409,54.342816666666664,2155.0,,"Three benchmarks will be deployed (as small moorings) in a small triangle, We will do a CTD cast to near the seafloor within the triangle",0
+92.2,GPSA2-south,-158.44905,54.31583333333333,-2140.0,,,0
+92.3,GPSA2-west,-158.48495,54.33345,-2085.0,,,0
+35.0,LA35,-158.86700000000002,54.25,-1984.0, deep LDEO OBSs with APGs,Note this is a D not an A. ,1
+17.0,LT17,-160.20186999999999,54.567440000000005,-121.0," TRM OBSs with APG, pop-up",,0
+18.0,LT18,-160.58,54.74,-108.0," TRM OBSs with APG, pop-up",,0
+20.0,LT20,-161.375,54.8,-153.0," TRM OBSs with APG, pop-up",,0
+19.0,LT19,-161.0,54.46,-196.0," TRM OBSs with APG, pop-up",,0
+43.0,LD43,-160.846,53.95,-2500.0, deep LDEO OBSs without APGs,,1
+91.1,GPSA1-east,-160.27565,54.212466666666664,-780.0,,"Three benchmarks will be deployed (as small moorings) in a small triangle, We will do a CTD cast to near the seafloor within the triangle",1
+91.2,GPSA1-south,-160.28008333333332,54.20203333333333,-880.0,,,0
+91.3,GPSA1-west,-160.29326666666665,54.2095,-800.0,,,0
+45.0,LD45,-159.875,54.1,-2134.0, deep LDEO OBSs without APGs,,2
+44.0,LD44,-159.767,53.833999999999996,-4660.0, deep LDEO OBSs without APGs,,1
+34.0,LA34,-158.583,54.05,-4645.0, deep LDEO OBSs with APGs,,1
+33.0,LA33,-158.1,54.155,-4483.0, deep LDEO OBSs with APGs,,1
+31.0,LA31,-157.86700000000002,53.8,-5326.0, deep LDEO OBSs with APGs,,0
+29.0,LA29,-157.36700000000002,54.292,-4424.0, deep LDEO OBSs with APGs,,0
+27.0,LA27,-156.63128,53.9859,-5181.0, deep LDEO OBSs with APGs,,0
+26.0,LA26,-156.25,54.515,-5068.0, deep LDEO OBSs with APGs,,0
+21.0,LA21,-155.07165,54.37155,-5097.0, deep LDEO OBSs with APGs,,0
+41.0,LD41,-153.41,54.52,-4288.0, deep LDEO OBSs without APGs,,0
+23.0,LA23,-155.255,54.92,-3767.0, deep LDEO OBSs with APGs,,1
+22.0,LA22,-155.1496,55.257169999999995,-2109.0, deep LDEO OBSs with APGs,,0
+94.0,POBS1,-155.1496,55.25717,-2109.0,,POBSs are another free drop OBS,0
+42.0,LD42,-154.67,55.55,-880.0, deep LDEO OBSs without APGs,,0
+4.0,LT04,-154.5326,56.08653,-157.0," TRM OBSs with APG, pop-up",,0
+2.0,LT02,-153.26145,56.69347,-153.0," TRM OBSs with APG, pop-up",,0
+1.0,LT01,-152.466,56.795,-175.0," TRM OBSs with APG, pop-up",,0
+40.0,LD40,-152.417,56.3,-1112.0, deep LDEO OBSs without APGs,,2
+38.0,LD38,-151.67785,55.16505,-4039.0, deep LDEO OBSs without APGs,,0
+37.0,LD37,-151.1,55.67593000000001,-4810.0, deep LDEO OBSs without APGs,,0
+24.0,LA24,-150.41848000000002,56.10066,-912.0, deep LDEO OBSs with APGs,Depth is an estimate,0
+39.0,LD39,-151.083,56.95,-1024.0, deep LDEO OBSs without APGs,,0
